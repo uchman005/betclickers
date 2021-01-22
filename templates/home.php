@@ -64,7 +64,7 @@
 
 
         <div class="pull_left session2-sport">
-            <h3>SPORTS MATCHES AND PREDICTIONS FROM SUPPER</h3>
+            <h3>SPORTS MATCHES AND PREDICTIONS FROM BET CLICKERS</h3>
             <div class="top-events">
                 <div class="top-events__list">
                     <?php while ($odd = mysqli_fetch_object($HomeOdds)) : ?>
